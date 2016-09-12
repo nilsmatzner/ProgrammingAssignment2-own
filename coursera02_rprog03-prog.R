@@ -1,5 +1,10 @@
 ## Programming assignment2
 ## https://github.com/rdpeng/ProgrammingAssignment2
+#
+# cd /c/Users/matznerni/Documents/R/coursera/coursera02_rprog03-prog
+# git init
+# git remote add origin https://github.com/nilsmatzner/ProgrammingAssignment2.git
+# 
 
 makeVector <- function(x = numeric()) {
         m <- NULL
@@ -34,3 +39,8 @@ cachemean <- function(x, ...) {
 
 # cacheSolve <- function() {}
 
+
+# I
+# made
+# some
+# changes
